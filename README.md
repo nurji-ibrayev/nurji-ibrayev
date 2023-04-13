@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/nurji-ibrayev-59b87a154/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://hh.kz/resume/c7c89713ff07f443000039ed1f6a4e65646972">
+    <img src="https://hhcdn.ru/nposter/263730.jpg" height="27.5" alt="HeadHunter Badge"/>
   </a>
 </div>
 
