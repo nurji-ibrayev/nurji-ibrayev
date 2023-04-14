@@ -1,6 +1,6 @@
 # nurji-ibrayev
 <div align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAd/coding.gif" height="300"/>
+  <img src="https://i.stack.imgur.com/i6NG3.gif" height="300"/>
 </div>
 
 <div id="badges" align="center">
