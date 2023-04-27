@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://hh.kz/resume/c7c89713ff07f443000039ed1f6a4e65646972">
-    <img src="https://ltdfoto.ru/images/2023/04/14/68747470733a2f2f686863646e2e72752f6e706f737465722f3236333733302e6a706724b3620696431472.jpg" height="27.5" alt="HeadHunter Badge"/>
+    <img src="https://img.shields.io/badge/HeadHunter-black?style=for-the-badge&logo=headhunter&logoColor=white" alt="HeadHunter Badge"/>
   </a>
 </div>
 
