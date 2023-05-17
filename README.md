@@ -34,6 +34,7 @@ I am a Full Stack Developer from Kazakhstan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C Sharp" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"  title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg"  title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/673/239/png-clipart-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-thumbnail.png"  title="ASP.NET Core" alt="ASP.NET Core" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server"  alt="Microsoft SQL Server" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg"  title="Xamarin" alt="Xamarin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
